@@ -1,0 +1,4 @@
+YouFly.MainActivity, YouFly;md561a577ad3b5436ee7195d465d7bbe0f1.MainActivity
+YouFly.MainActivity, YouFly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md561a577ad3b5436ee7195d465d7bbe0f1.MainActivity
+YouFly.MainActivity;md561a577ad3b5436ee7195d465d7bbe0f1.MainActivity
+youfly.MainActivity;md561a577ad3b5436ee7195d465d7bbe0f1.MainActivity
