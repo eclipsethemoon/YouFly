@@ -17,9 +17,8 @@ namespace YouFly
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-
             //Initializing button from layout
-           Button login = FindViewById<Button>(Resource.Id.login);
+            Button login = FindViewById<Button>(Resource.Id.login);
 
             //Login button click action
             login.Click += (object sender, EventArgs e) => {

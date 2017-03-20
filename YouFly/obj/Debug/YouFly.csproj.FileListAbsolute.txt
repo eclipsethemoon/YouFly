@@ -35,5 +35,7 @@ C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debu
 C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\android\assets\YouFly.dll.mdb
+C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\res\drawable\logomakr.png
+C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\res\drawable\logomakr_dank.png
 C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\obj\Debug\YouFly.dll.mdb
 C:\Users\Neil Hoang\Documents\Visual Studio 2015\Projects\YouFly\YouFly\bin\Debug\YouFly.dll.mdb
